@@ -1,7 +1,5 @@
 # clientSystem
-Sistema de clientes com CRUD de pedidos feito em Python, BootStrap e JavaScript
-
-https://clientsystem.herokuapp.com/
+Sistema de clientes com CRUD de pedidos feito em Python, BootStrap e JavaScript               https://clientsystem.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/61760730/115812279-84659000-a3c7-11eb-8783-02730cf94f20.png)
 
@@ -11,3 +9,4 @@ Ao Usuario clicar no nome dos clientes é redirecionado á uma lista de pedidos,
 
 Quando adicionamos um novo pedido, podemos colocar o nome, o preço e a quantiade que o cliente quer do produto.
 
+![image](https://user-images.githubusercontent.com/61760730/115812748-42891980-a3c8-11eb-9016-0375dfa6ac29.png)
